@@ -10,7 +10,7 @@
 
 下载地址：https://nodejs.org/en/download/
 
-目前 nodejs 最新版本是 v6.10.0。例如 Windows 64 中使用的 nodejs：https://nodejs.org/dist/v6.10.0/node-v6.10.0-x64.msi
+我用的 nodejs 版本是 v8.9.3。
 
 ## 启动 Server
 
